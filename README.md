@@ -2,6 +2,11 @@
 
 ---
 
+### Team members
+
+- [Andrei-Alexandru Georgescu](https://github.com/AnduG), 342C1
+- [Alexandra-Florentina-Georgiana Lache](https://github.com/alex2004-l), 342C1
+
 ## Project Overview
 
 The working principle of using [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis) for image compression is interpreting the image as an n-dimensional dataset and translating it into some k-dimensional space where k < n by detecting linear dependencies between the pixel values and eliminating them. 

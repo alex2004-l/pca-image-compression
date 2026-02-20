@@ -1,0 +1,38 @@
+# VSCode directory
+.vscode
+
+# Ignore input and output directories
+input/*
+output/*
+output_compressed/*
+
+# Ignore executables
+seq_spectra_pca
+seq_pca
+omp_pca
+mpi_pca
+hybrid_pca
+mpi_fep_pca
+hybrid_fep_pca
+pthreads_pca
+hybrid_pthr_pca
+hybrid_omp_pca
+
+*/debug-tools.sif
+
+# Ignore Valgrind output
+valgrind-*
+
+# Ignore fep outputs
+slurm-*.out
+
+# Ignore Python virtual environments
+venv/
+
+# Ignore profiling outputs
+debug-tools/output
+debug-tools/output_compressed
+debug-tools/vtune*
+debug-tools/callgrind*
+
+*.zip

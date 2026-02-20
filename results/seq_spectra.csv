@@ -1,0 +1,13 @@
+variant,image,width,height,time_comp,nof_components,num_threads,num_procs
+seq_spectra,test00_1024x1024.ppm,1024,1024,4.17179,20,1
+seq_spectra,test00_1024x1024.ppm,1024,1024,4.91249,50,1
+seq_spectra,test00_1024x1024.ppm,1024,1024,7.89312,100,1
+seq_spectra,test00_2048x2048.ppm,2048,2048,30.9279,20,1
+seq_spectra,test00_2048x2048.ppm,2048,2048,34.1303,50,1
+seq_spectra,test00_2048x2048.ppm,2048,2048,42.6107,100,1
+seq_spectra,test00_256x256.ppm,256,256,0.122289,20,1
+seq_spectra,test00_256x256.ppm,256,256,0.216345,50,1
+seq_spectra,test00_256x256.ppm,256,256,0.579284,100,1
+seq_spectra,test00_512x512.ppm,512,512,0.943517,20,1
+seq_spectra,test00_512x512.ppm,512,512,1.2166,50,1
+seq_spectra,test00_512x512.ppm,512,512,1.60773,100,1

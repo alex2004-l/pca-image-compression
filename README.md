@@ -270,31 +270,31 @@ The 16/2 results are much less aligned with our intentions, suffering from a gre
 
 Week 17 Nov - 23 Nov
 
-Sequential implementation using Eigen.
-This implementation work for images up to 350x350.
+- Sequential implementation using Eigen.
+- This implementation work for images up to 350x350.
 
 Week 24 Nov - 30 Nov
 
-Start OpenMP and MPI implementations.
-Use Spectra on top of Eigen for speedup. Now, the program supports images up to 1024x1024, even bigger, depending on the number of components.
+- Start OpenMP and MPI implementations.
+- Use Spectra on top of Eigen for speedup. Now, the program supports images up to 1024x1024, even bigger, depending on the number of components.
 
 Week 1 Dec - 7 Dec
 
-Make hybrid Lanczos and Eigen implementation (to have something worth parallelizing).
-OpenMP implementation almost finished.
+- Make hybrid Lanczos and Eigen implementation (to have something worth parallelizing).
+- OpenMP implementation almost finished.
 
 Week 8 Dec - 14 Dec
 
-Finish OpenMP and MPI implementations.
-Hybrid implementation done.
+- Finish OpenMP and MPI implementations.
+- Hybrid implementation done.
 
 Week 15 Dec - 19 Dec
 
-Add profiling with VTune and basics plots.
-Improve matrix multiplication by switching the order of loops.
-Add pthreads implementation using threadpool.
+- Add profiling with VTune and basics plots.
+- Improve matrix multiplication by switching the order of loops.
+- Add pthreads implementation using threadpool.
 
 Week 12 Jan - 16 Jan
 
-Improve plots
-Make presentation
+- Improve plots
+- Make presentation
